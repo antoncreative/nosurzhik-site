@@ -10,4 +10,4 @@ no build step. Deployed on Vercel.
 | `/terms` | Community rules + EULA (App Store guideline 1.2) |
 | `/support` | Support / contact — App Store Connect "Support URL" |
 
-Contact: antoncando11@gmail.com
+Contact: wewtalksocial@gmail.com
