@@ -1,6 +1,6 @@
 # nosurzhik-site
 
-Static marketing + legal site for the **No Surzhik** iOS app. Plain HTML/CSS,
+Static marketing + legal site for the **No Surzhyk** iOS app. Plain HTML/CSS,
 no build step. Deployed on Vercel.
 
 | Path | Purpose |
